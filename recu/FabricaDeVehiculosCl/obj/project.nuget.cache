@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpa7tZ0FjbtWc2zMGcNmcxaJ6ExffZOw6pc7wwOyFd8uZ/v4zBeLv759HzF39FPUneSUqpGFgMI0vUj8R18PIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ignac\\Desktop\\recu\\FabricaDeVehiculosCl\\FabricaDeVehiculosCl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ignac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ignac\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ignac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
